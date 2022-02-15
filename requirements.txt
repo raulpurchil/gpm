@@ -1,0 +1,3 @@
+selenium<4.0
+pytest
+pytest-check

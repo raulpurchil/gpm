@@ -10,3 +10,5 @@
 
 ![testcase2_details](./img/testcase2_details.png "test case 2 details")
 ![testcase2_steps](./img/testcase2_steps.png "test case 2 steps")
+
+Both test cases would build our final test plan

@@ -1,4 +1,6 @@
-## Bugs found
+# [GPM](../README.md) /Bugs Found
+
+## bugs found
 
 * Home page - The image is not displayed properly in the 'Decarbonize shipping' article
 
